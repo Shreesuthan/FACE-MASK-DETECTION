@@ -1,0 +1,5 @@
+ python -m pip install pygame
+pip install opencv-python
+pip install tensorflow==2.4.0
+pip install keras
+install cuda : https://developer.nvidia.com/cuda-10.0-download-archive
